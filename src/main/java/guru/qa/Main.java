@@ -1,7 +1,9 @@
 package guru.qa;
 
+private statis String msg = "Hello, My Favourite Qa Guru!!!";
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, My Favourite Qa Guru!!!");
+        System.out.println(msg);
     }
 }
