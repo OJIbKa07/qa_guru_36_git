@@ -1,6 +1,6 @@
 package guru.qa;
 
-private statis String msg = "Hello, My Favourite Qa Guru!!!";
+private static String msg = "Hello, My Favourite Qa Guru!!!";
 
 public class Main {
     public static void main(String[] args) {
